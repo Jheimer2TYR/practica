@@ -1,0 +1,14 @@
+{
+  "name": "menu-hora-fecha",
+  "version": "1.0.0",
+  "description": "Un programa que muestra la hora, fecha y días de la semana",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.1"
+  }
+}
